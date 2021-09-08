@@ -16,10 +16,10 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread4) - Anonima addetta aereoportuale junior
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread5) - Anonimo mastro cioccolatiere Lindt
 
+## Programmazione e Analisi di Dati [Modulo Python]
+
 ## Linguistica Applicata - R
 - [**Compitino R appello autunnale 2021 con soluzioni**](https://github.com/simonamazzarino/Linguistica-Applicata---R) - [Simona Mazzarino](https://github.com/simonamazzarino)
-
-## Programmazione e Analisi di Dati [Modulo Python]
 
 ## Data Mining
 - [**Appunti per l'esame di Data Mining 1+2 (A.A. 2020/21)**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz) et al
