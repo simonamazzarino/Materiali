@@ -10,6 +10,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 
 ## Programmazione e Analisi di Dati [Modulo Java, A.A. 2020/2021]
 - [**Esercizi in Java**](https://github.com/andreafailla/Esercizi-in-java) - [Andrea Failla](https://github.com/andreafailla)
+- [**Progetto programmazione (6cfu) e esercizio client-server laboratorio (3cfu)](https://github.com/simonamazzarino/Progetti-Programmazione-in-Java) - [Simona Mazzarino](https://github.com/simonamazzarino)
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread) - Anonimo sommelier di vino
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread2) - Anonima pony pizza
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread3) - Anonimo addetto aereoportuale
