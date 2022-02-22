@@ -40,6 +40,10 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 - [**Narrative Ontology (Feb-2021)**](https://github.com/andreafailla/Narrative-Ontology) - [Andrea Failla](https://github.com/andreafailla)
 - [**Progetto di Semantic Web 2019/2020**](https://github.com/luciapiff/Semantic-Web) - [Lucia Pifferi](https://github.com/luciapiff/)
 
+
+## Text Analytics
+- [**Coronavirus Tweets Sentiment Analysis**](https://github.com/simonamazzarino/Text-Analytics) - [Simona Mazzarino](https://github.com/simonamazzarino)
+
 ## Codifica di Testi
 - [**Esercizi Codifica di Testi (2018/19)**](https://github.com/lyereth/Esercizi-Codifica-di-Testi) - [Erica Cau](https://github.com/lyereth)
 - [**Progetto esame Codifica di Testi (2018/19)**](https://github.com/lyereth/Progetto-Esame-Codifica-di-Testi) - [Erica Cau](https://github.com/lyereth), [Alice Isola](https://github.com/alisola21)
